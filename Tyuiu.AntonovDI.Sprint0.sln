@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AntonovDI.Sprin0.Task0.V0", "Tyuiu.AntonovDI.Sprin0.Task0.V0\Tyuiu.AntonovDI.Sprin0.Task0.V0.csproj", "{DBED0159-EB75-4522-AF23-D2C44176DBCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{C65F8A9A-A826-499A-B75D-16F3AC003975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AntonovDI.Sprint0.Task1.V0", "Tyuiu.AntonovDI.Sprint0.Task1.V0\Tyuiu.AntonovDI.Sprint0.Task1.V0.csproj", "{ED1C7EA3-D23B-4012-AFC8-5EC882242008}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{DBED0159-EB75-4522-AF23-D2C44176DBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBED0159-EB75-4522-AF23-D2C44176DBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBED0159-EB75-4522-AF23-D2C44176DBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1C7EA3-D23B-4012-AFC8-5EC882242008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1C7EA3-D23B-4012-AFC8-5EC882242008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1C7EA3-D23B-4012-AFC8-5EC882242008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1C7EA3-D23B-4012-AFC8-5EC882242008}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DBED0159-EB75-4522-AF23-D2C44176DBCD} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{ED1C7EA3-D23B-4012-AFC8-5EC882242008} = {C65F8A9A-A826-499A-B75D-16F3AC003975}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {90ACF5F1-E49B-4AA2-8DF8-074626D73115}
